@@ -15,6 +15,7 @@
 
 * [Speculation in JavaScriptCore](https://webkit.org/blog/10308/speculation-in-javascriptcore/)--[slide](https://www.filpizlo.com/slides/pizlo-speculation-in-jsc-slides.pdf)
 * [A New Bytecode Format for JavaScriptCore](https://webkit.org/blog/9329/a-new-bytecode-format-for-javascriptcore/)--[slide](https://pt.slideshare.net/TadeuZagallo/a-compact-bytecode-format-for-javascriptcore)
+* [Profiling in JavaScriptCore](https://docs.google.com/document/d/18MQU5Dm31g4cVweuQuGofQAxfbenAAsE_njeTUuKOVA/edit)
 * [JavaScriptCore Internals Part I: Tracing JavaScript Source to Bytecode](https://zon8.re/posts/jsc-internals-part1-tracing-js-source-to-bytecode/)
 * [JavaScriptCore Internals Part II: The LLInt and Baseline JIT](https://zon8.re/posts/jsc-internals-part2-the-llint-and-baseline-jit/)
 * [JavaScriptCore Internals Part III: The DFG (Data Flow Graph) JIT – Graph Building](https://zon8.re/posts/jsc-part3-the-dfg-jit-graph-building/)
