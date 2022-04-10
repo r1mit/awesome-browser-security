@@ -22,3 +22,18 @@
 * [JavaScriptCore Internals Part IV: The DFG (Data Flow Graph) JIT – Graph Optimisation](https://zon8.re/posts/jsc-part4-the-dfg-jit-graph-optimisation/)
 * [JavaScriptCore Internals Part V: The DFG (Data Flow Graph) JIT – On Stack Replacement](https://zon8.re/posts/jsc-part5-the-dfg-jit-osr/)
 
+## ChakraCore
+
+### Fundanmental
+
+*  [Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability (Part 1)](https://connormcgarr.github.io/type-confusion-part-1/)
+
+* [Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability (Part 2)](https://connormcgarr.github.io/type-confusion-part-2/)
+
+* [Exploit Development: Browser Exploitation on Windows - CVE-2019-0567, A Microsoft Edge Type Confusion Vulnerability (Part 3)](https://connormcgarr.github.io/type-confusion-part-3/)
+
+  ## 
+
+  
+
+  
